@@ -16,15 +16,15 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
-.styleguid {
+ h1 .styleguid {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'light';
 }
-.style {
+h2 .style {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'extralight';
 }
-.guide {
+h3 .guide {
     font-family: 'Source Sans Pro', sans-serif;
 }
 p {
