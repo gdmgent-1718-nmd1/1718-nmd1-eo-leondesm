@@ -16,7 +16,7 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
- h1 .styleguid {
+ body h1 .styleguid {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'light';
 }
