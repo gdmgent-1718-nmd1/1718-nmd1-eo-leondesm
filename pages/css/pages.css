@@ -19,6 +19,9 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+dt {
+    font-weight: 'semi-bold';
+}
  body h1 .styleguid {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'light';
