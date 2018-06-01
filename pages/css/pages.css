@@ -19,6 +19,9 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+dl{
+    font-family: 'Source Sans Pro', sans-serif;
+}
 dt {
     font-weight: 'semi-bold';
 }
