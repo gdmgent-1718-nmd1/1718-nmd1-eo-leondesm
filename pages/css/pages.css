@@ -26,14 +26,13 @@ img .l2{
     height: 60px;
 }
 
-/* Voeg jouw css hieraan toe */
 dl{
     font-family: 'Source Sans Pro', sans-serif;
 }
 dt {
     font-weight: 'semi-bold';
 }
- body h1 .styleguid {
+ body h1 {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'light';
 }
@@ -52,6 +51,7 @@ p {
 }
 .info {
     font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 'light';
 }
 ol {
     font-family: 'Source Sans Pro', sans-serif;
@@ -61,6 +61,7 @@ ul .menu{
     font-weight: 'light';
     list-style: 'none';
     float: left;
+    display: inline;
 }
 p {
     font-family: 'Source Sans Pro', sans-serif;
