@@ -15,21 +15,26 @@ body {
 /* algemeen */
 body h1 {
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'Light';
+    font-weight: 300;
     font-size: 22pt;
 }
 h2 {
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'regular';
+    font-weight: 400;
     text-decoration-line: underline;
 }
 h3 {
     font-family: 'Source Sans Pro', sans-serif, 'UltraLight';
-    font-weight: 'UltraLight';
+    font-weight: 200;
+}
+h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 20pt;
 }
 p {
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'Light';
+    font-weight: 300;
 
 }
 
