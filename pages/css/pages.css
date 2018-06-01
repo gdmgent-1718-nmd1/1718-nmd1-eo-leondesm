@@ -49,10 +49,6 @@ img .l2{
 }
 
 /* intro */
-.info {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'light';
-}
 dl dt{
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'semi-bold';
@@ -84,7 +80,7 @@ img .i {
     height: 60px;
     width: 60px;
 }
-ol ul .menu {
+.menu {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'light';
     list-style: 'none';
