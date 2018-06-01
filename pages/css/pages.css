@@ -11,6 +11,7 @@ body {
     line-height: 1.5em;
     padding: 25px;
 }
+/* afbeeldingen */
 
 img {
     max-width: 100%; 
@@ -26,6 +27,15 @@ img .l2{
     width: 60px;
     height: 60px;
 }
+/* intro */
+
+/* concurrentie */
+
+/* scenarios */
+
+/* styleguide */
+
+
 
 dl{
     font-family: 'Source Sans Pro', sans-serif;
