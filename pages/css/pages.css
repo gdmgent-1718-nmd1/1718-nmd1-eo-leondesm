@@ -17,9 +17,13 @@ img {
     height: 40px;
     /* Afbeeldingen responsive maken */
 }
+img .l2{
+    width: 90px;
+    height: 60px;
+}
 .logo {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
 }
 
 /* Voeg jouw css hieraan toe */
