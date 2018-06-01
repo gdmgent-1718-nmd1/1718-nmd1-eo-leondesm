@@ -70,10 +70,12 @@ a{
 .klr1 {
     background-color: rgb(207, 99, 58);
     padding: 5px;
+    margin-bottom: 0px;
 }
 .klr2 {
     background-color: rgb(113, 113, 113);
     padding: 5px;
+    margin-bottom: 0px;
 }
 .klr3 {
     background-color: rgb(8, 9, 10);
