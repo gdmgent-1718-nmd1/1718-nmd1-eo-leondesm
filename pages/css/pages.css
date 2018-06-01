@@ -46,6 +46,7 @@ ul {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'light';
     list-style: 'none';
+    float: left;
 }
 p {
     font-family: 'Source Sans Pro', sans-serif;
