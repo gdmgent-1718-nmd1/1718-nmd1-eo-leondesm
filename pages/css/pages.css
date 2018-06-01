@@ -52,7 +52,7 @@ p {
 ol {
     font-family: 'Source Sans Pro', sans-serif;
 }
-ul {
+ul .menu{
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'light';
     list-style: 'none';
@@ -60,4 +60,7 @@ ul {
 }
 p {
     font-family: 'Source Sans Pro', sans-serif;
+}
+klr1 {
+    background-color: rgb(207, 99, 58);
 }
