@@ -46,6 +46,7 @@ p {
 .l2{
     width: 110px;
     height: 50px;
+    margin-right: 5px; 
 }
 .logo {
     width: 55px;
