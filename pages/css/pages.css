@@ -102,6 +102,7 @@ ol {
     background-color: rgb(207, 99, 58);
     padding: 5px;
     color: black;
+    text-align: inherit;
 }
 .klr2 {
     background-color: rgb(113, 113, 113);
