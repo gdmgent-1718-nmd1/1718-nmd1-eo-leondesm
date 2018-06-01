@@ -112,6 +112,10 @@ img .m1 {
     width: 1500px;
     height: 40px;
 }
+.m2 {
+    font-weight: 300;
+    font-size: 26pt;
+}
 .L {
     display: inline;
 }
