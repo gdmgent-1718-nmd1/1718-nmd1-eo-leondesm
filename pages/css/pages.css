@@ -11,6 +11,26 @@ body {
     line-height: 1.5em;
     padding: 25px;
 }
+
+/* algemeen */
+body h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 'light';
+}
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 'regular';
+}
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 'ultralight';
+}
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 'light';
+
+}
+
 /* afbeeldingen */
 
 img {
@@ -28,52 +48,22 @@ img .l2{
     height: 60px;
 }
 /* intro */
+.info {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 'light';
+}
 
 /* concurrentie */
-
-/* scenarios */
-
-/* styleguide */
-
-
-
 dl{
     font-family: 'Source Sans Pro', sans-serif;
 }
 dt {
     font-weight: 'semi-bold';
 }
- body h1 {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'light';
-}
-h2 {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'regular';
-}
-h3 {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'ultralight';
-}
-p {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'light';
 
-}
-.info {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'light';
-}
-ol ul .menu {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'light';
-    list-style: 'none';
-    float: left;
-    display: inline;
-}
-p {
-    font-family: 'Source Sans Pro', sans-serif;
-}
+/* scenarios */
+
+/* styleguide */
 klr1 {
     background-color: rgb(207, 99, 58);
 }
@@ -88,3 +78,11 @@ img .i {
     height: 60px;
     width: 60px;
 }
+ol ul .menu {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 'light';
+    list-style: 'none';
+    display: inline;
+}
+
+
