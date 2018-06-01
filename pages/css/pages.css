@@ -121,21 +121,21 @@ img .m1 {
 }
 .m2 {
     font-weight: 300;
-    font-size: 26pt;
+    font-size: 18pt;
 }
 
 .titel {
     font-weight: 600;
-    font-size: 24pt;
+    font-size: 20pt;
 }
 .sub {
     font-weight: 300;
-    font-size: 20pt;
+    font-size: 18pt;
     text-decoration-line: underline;
 }
 .tekst {
     font-weight: 200;
-    font-size: 20pt;
+    font-size: 18pt;
     margin-bottom: 20px;
 }
 .kn {
