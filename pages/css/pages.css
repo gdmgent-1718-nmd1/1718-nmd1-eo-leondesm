@@ -24,7 +24,7 @@ h2 {
     text-decoration-line: underline;
 }
 h3 {
-    font-family: 'Source Sans Pro', sans-serif, 'UltraLight';
+    font-family: 'Source Sans Pro', sans-serif;
     font-weight: 200;
 }
 h4 {
@@ -61,8 +61,12 @@ img {
 
 /* intro */
 dl dt{
-    font-family: 'Source Sans Pro', sans-serif, 'Semi-bold';
+    font-family: 'Source Sans Pro', sans-serif;
     font-weight: 600;
+}
+dl dd {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
 }
 .intro {
     width: 900px;
@@ -117,5 +121,6 @@ img .m1 {
 .tekst {
     font-weight: 200;
     font-size: 20pt;
+    margin-bottom: 20px;
 }
 
