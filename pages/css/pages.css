@@ -63,11 +63,11 @@ img {
 /* intro */
 dl dt{
     font-family: 'Source Sans Pro', sans-serif, 'Semi-bold';
-    font-weight: 'semi-bold';
+    font-weight: 600;
 }
 .intro {
     width: 900px;
-    font-weight: 'light';
+    font-weight: 300;
 }
 
 /* concurrentie */
