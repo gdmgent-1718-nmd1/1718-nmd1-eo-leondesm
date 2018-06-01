@@ -26,14 +26,17 @@ h2 {
 h3 {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 200;
+    font-size: 18pt;
 }
 h4 {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
+    font-size: 16pt;
 }
 p {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
+    font-size: 12pt;
 
 }
 
@@ -66,11 +69,10 @@ dl dt{
 }
 dl dd {
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 200;
+    font-weight: 400;
 }
 .intro {
     width: 900px;
-    font-weight: 300;
 }
 
 /* concurrentie */
@@ -79,6 +81,10 @@ a{
     text-decoration-line: none;
     border-color: black;
     border-width: 1pt;
+}
+ol {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
 }
 
 /* scenarios */
