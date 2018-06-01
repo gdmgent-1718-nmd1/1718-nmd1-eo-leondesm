@@ -36,6 +36,10 @@ p {
 ol {
     font-family: 'Source Sans Pro', sans-serif;
 }
+ul {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: light;
+}
 p {
     font-family: 'Source Sans Pro', sans-serif;
 }
