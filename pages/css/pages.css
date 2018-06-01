@@ -13,12 +13,12 @@ body {
 
 img {
     max-width: 100%; 
-    width: 70px;
+    width: 80px;
     height: 40px;
     /* Afbeeldingen responsive maken */
 }
 img .l2{
-    width: 90px;
+    width: 100px;
     height: 60px;
 }
 .logo {
@@ -53,10 +53,7 @@ p {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'light';
 }
-ol {
-    font-family: 'Source Sans Pro', sans-serif;
-}
-ul .menu{
+ol ul .menu {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'light';
     list-style: 'none';
@@ -77,5 +74,6 @@ klr3 {
     color: white;
 }
 img .i {
-    
+    height: 60px;
+    width: 60px;
 }
