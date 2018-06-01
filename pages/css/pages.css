@@ -22,13 +22,16 @@ img {
 }
 h2 {
     font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 'regular';
 }
 h3 {
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'light';
+    font-weight: 'ultralight';
 }
 p {
     font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 'light';
+
 }
 .info {
     font-family: 'Source Sans Pro', sans-serif;
@@ -38,7 +41,7 @@ ol {
 }
 ul {
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: light;
+    font-weight: 'light';
 }
 p {
     font-family: 'Source Sans Pro', sans-serif;
