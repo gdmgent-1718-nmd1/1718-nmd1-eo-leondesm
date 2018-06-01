@@ -15,7 +15,7 @@ body {
 /* algemeen */
 body h1 {
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'light';
+    font-weight: 'Light';
     font-size: 22pt;
 }
 h2 {
@@ -25,11 +25,11 @@ h2 {
 }
 h3 {
     font-family: 'Source Sans Pro', sans-serif, 'UltraLight';
-    font-weight: 'ultralight';
+    font-weight: 'UltraLight';
 }
 p {
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 'light';
+    font-weight: 'Light';
 
 }
 
