@@ -101,21 +101,17 @@ ol {
 .klr1 {
     background-color: rgb(207, 99, 58);
     padding: 5px;
-    margin-bottom: none;
     color: black;
 }
 .klr2 {
     background-color: rgb(113, 113, 113);
     padding: 5px;
-    margin-bottom: none;
-    margin-top: none;
     color: black;
 }
 .klr3 {
     background-color: rgb(8, 9, 10);
     padding: 5px;
     color: white;
-    margin-top: none;
 }
 
 img .m1 {
