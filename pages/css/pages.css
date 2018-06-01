@@ -38,6 +38,7 @@ p {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
     font-size: 12pt;
+    width: 900px;
 
 }
 
@@ -85,7 +86,8 @@ a{
     color: black;
     text-decoration-line: none;
     border-color: black;
-    border-width: 1pt;
+    border-width: 2pt;
+    padding: 2px;
 }
 ol {
     font-family: 'Source Sans Pro', sans-serif;
