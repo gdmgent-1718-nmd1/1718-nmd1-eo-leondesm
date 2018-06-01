@@ -104,4 +104,17 @@ img .m1 {
 .L {
     display: inline;
 }
+.titel {
+    font-weight: 600;
+    font-size: 24pt;
+}
+.sub {
+    font-weight: 300;
+    font-size: 20pt;
+    text-decoration-line: underline;
+}
+.tekst {
+    font-weight: 200;
+    font-size: 20pt;
+}
 
