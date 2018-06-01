@@ -53,6 +53,10 @@ p {
     max-height: 60px;
     max-width: 60px;
 }
+.p {
+    max-width: 80px;
+    max-height: 130px;
+}
 img .but {
     max-height: 60px;
     max-width: 100px;
