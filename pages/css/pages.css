@@ -56,7 +56,10 @@ dl dt{
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'semi-bold';
 }
-
+.intro {
+    width: 200px;
+    font-weight: 'light';
+}
 
 /* concurrentie */
 
