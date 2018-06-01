@@ -98,6 +98,9 @@ ol {
 /* scenarios */
 
 /* styleguide */
+.log {
+    font-size: 16pt;
+}
 .klr1 {
     background-color: rgb(207, 99, 58);
     padding: 5px;
@@ -126,19 +129,19 @@ img .m1 {
 
 .titel {
     font-weight: 600;
-    font-size: 20pt;
+    font-size: 18pt;
 }
 .sub {
     font-weight: 300;
-    font-size: 18pt;
+    font-size: 16pt;
     text-decoration-line: underline;
 }
 .tekst {
     font-weight: 200;
     font-size: 18pt;
-    margin-bottom: 20px;
+    margin-bottom: 16px;
 }
 .kn {
     font-weight: 400;
-    font-size: 24pt;
+    font-size: 18pt;
 }
