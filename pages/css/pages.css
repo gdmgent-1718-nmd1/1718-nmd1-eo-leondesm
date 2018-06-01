@@ -42,6 +42,7 @@ ol {
 ul {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 'light';
+    list-style: 'none';
 }
 p {
     font-family: 'Source Sans Pro', sans-serif;
