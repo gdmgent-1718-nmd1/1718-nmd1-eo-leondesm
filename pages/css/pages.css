@@ -92,5 +92,7 @@ img .m1 {
     width: 1500px;
     height: 40px;
 }
-
+.L {
+    display: inline-block;
+}
 
