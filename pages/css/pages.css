@@ -60,6 +60,8 @@ dl dt{
 a{
     color: black;
     text-decoration-line: none;
+    border-color: black;
+    border-bottom-width: 1pt;
 }
 
 /* scenarios */
