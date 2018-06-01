@@ -85,10 +85,6 @@ dl dd {
 /* concurrentie */
 a{
     color: black;
-    border-color: black;
-    border-width: 2pt;
-    border-radius: 2px;
-    padding: 2px;
 }
 ol {
     font-family: 'Source Sans Pro', sans-serif;
