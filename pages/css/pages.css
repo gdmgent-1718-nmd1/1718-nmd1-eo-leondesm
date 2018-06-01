@@ -35,12 +35,10 @@ p {
 /* afbeeldingen */
 img {
     max-width: 100%; 
-    width: 80px;
-    height: 40px;
     /* Afbeeldingen responsive maken */
 }
 img .l2{
-    width: 100px;
+    width: 120px;
     height: 60px;
 }
 .logo {
