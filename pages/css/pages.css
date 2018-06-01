@@ -65,13 +65,13 @@ a{
 /* scenarios */
 
 /* styleguide */
-klr1 {
+.klr1 {
     background-color: rgb(207, 99, 58);
 }
-klr2 {
+.klr2 {
     background-color: rgb(113, 113, 113);
 }
-klr3 {
+.klr3 {
     background-color: rgb(8, 9, 10);
     color: white;
 }
