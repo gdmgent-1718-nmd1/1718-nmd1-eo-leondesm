@@ -59,6 +59,7 @@ dl dt{
 /* concurrentie */
 a{
     color: black;
+    text-decoration-line: none;
 }
 
 /* scenarios */
