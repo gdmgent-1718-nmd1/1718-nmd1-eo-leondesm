@@ -86,6 +86,7 @@ dl dd {
 a{
     color: black;
     border: 2px solid black;
+    padding: 3px;
 }
 ol {
     font-family: 'Source Sans Pro', sans-serif;
